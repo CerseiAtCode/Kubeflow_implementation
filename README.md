@@ -1,5 +1,5 @@
 ## Credits
-This project includes code from [Ashutosh Tripathi](https://github.dev/TripathiAshutosh/shared-documents/blob/main/kf-pipeline.ipynb)
+This project includes code from [Ashutosh Tripathi's git repository](https://github.dev/TripathiAshutosh/shared-documents/blob/main/kf-pipeline.ipynb)
 
 # Kubeflow_implementation
 ## Step by step guide to implement Kubeflow Pipeline
