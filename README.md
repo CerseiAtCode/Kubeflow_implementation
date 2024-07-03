@@ -1,4 +1,6 @@
-Source [Ashutosh Tripathi](https://github.dev/TripathiAshutosh/shared-documents/blob/main/kf-pipeline.ipynb)
+## Credits
+This project includes code from [Ashutosh Tripathi](https://github.dev/TripathiAshutosh/shared-documents/blob/main/kf-pipeline.ipynb)
+
 # Kubeflow_implementation
 Step by step guide to implement Kubeflow Pipeline
 Python function required for training and prediction
